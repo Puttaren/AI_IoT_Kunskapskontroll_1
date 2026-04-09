@@ -8,53 +8,36 @@ Redovisning av de tre delarna av kunskapskontroll 1 för kursen AI och IoT.
 Stegen Empathize, Define, Ideate, Prototype och Test är ganska tydliga "instruktioner" för en till synes linjär arbetsprocess som egentligen handlar om iteration. 
 
 ##  1. Empathize
-    Här handlar det om att ta till sig grunden för problemet/
-    projektet, skapa en helhetsbild så att man vet vad det handlar 
-    om. Vara i verksamheten, tala med personerna i kundsupporten och 
-    följa några ärenden igenom processen. Här får man se saker med 
-    "nya ögon" för att upptäcka insikter som användarna själva inte 
-    alltid är medvetna om.
+Här handlar det om att ta till sig grunden för problemet/projektet, skapa en helhetsbild så att man vet vad det handlar om. Vara i verksamheten, tala med personerna i kundsupporten och följa några ärenden igenom processen. Här får man se saker med "nya ögon" för att upptäcka insikter som användarna själva inte alltid är medvetna om.
 
-    För ett chatbot-projekt kan det handla om att studera 
-    interaktionen med kundsupporten, och se hur tydligt kunderna 
-    själva formulerar sina problem.Till det kan man göra intervjuer 
-    med både kunder och supportpersonal samt försöka gå på djupet och 
-    förstå deras frustrationer eller önskemål bättre.
+För ett chatbot-projekt kan det handla om att studera interaktionen med kundsupporten, och se hur tydligt kunderna själva formulerar sina problem.Till det kan man göra intervjuer med både kunder och supportpersonal samt försöka gå på djupet och förstå deras frustrationer eller önskemål bättre.
 
 ##  2. Define
-    Ta fram ett tydligt ramverk för projektet, med en grundlig 
-    beskrivning av vad målet är med projektet, *vem* som är 
-    målgruppen för prjektet, vilka *behov* som finns och vilka 
-    *insikter* som har framkommit i Empathize-fasen. Ett utmärkt sätt 
-    kan vara att göra "stream of consciousness"-anteckningar så att 
-    man fritt kan få fram allt som man upplevde i fas 1 - med bilder, 
-    citat, etc. Genom att skapa en "Point-of-View" får man klarhet 
-    och fokus med en meningsfull och handlingskraftig 
-    problemformulering.
+Ta fram ett tydligt ramverk för projektet, med en grundlig beskrivning av vad målet är med projektet, *vem* som är målgruppen för prjektet, vilka *behov* som finns och vilka *insikter* som har framkommit i Empathize-fasen. Ett utmärkt sätt kan vara att göra "stream of consciousness"-anteckningar så att man fritt kan få fram allt som man upplevde i fas 1 - med bilder, citat, etc. Genom att skapa en "Point-of-View" får man klarhet och fokus med en meningsfull och handlingskraftig problemformulering.
 
 ##  3. Ideate
-    Nu är det dags att skapa en serie åtgärdsförslag där man jobbar brett och använder fantasi för att hitta även svar som kanske inte omedelbart kan vara självklara. Kreativiteten är viktigare än genomförbarhet - idéerna ska flöda fritt!
+Nu är det dags att skapa en serie åtgärdsförslag där man jobbar brett och använder fantasi för att hitta även svar som kanske inte omedelbart kan vara självklara. Kreativiteten är viktigare än genomförbarhet - idéerna ska flöda fritt!
 
-    I det aktuella projeketet kan det vara bra med  brainstorming/mindmapping för att hitta förslag på chatbotens personlighet, funktioner och användargränssnitt. 
+I det aktuella projeketet kan det vara bra med  brainstorming/mindmapping för att hitta förslag på chatbotens personlighet, funktioner och användargränssnitt. 
 
-    När man fått ihop ett rejält grundmaterial är det dags att sovra och plocka med sig ett par-tre olika alternativ vidare till nästa fas. 
+När man fått ihop ett rejält grundmaterial är det dags att sovra och plocka med sig ett par-tre olika alternativ vidare till nästa fas. 
 
 ##  4. Prototype
-    Nu är det dags att ta fram lite enkla och billiga ”artefakter” (som det står i materialet) för att besvara frågor som tar projektet närmare en slutgiltig lösning. Här handlar det om att tänka, kommunicera och våga misslyckas. Prototyperna kan vara vad som helst som användarna kan interagera med – en storyboard, en whiteboard med olika ”vägar” att följa eller till och med ett rollspel där man får låtsas vara chatbot.
+Nu är det dags att ta fram lite enkla och billiga ”artefakter” (som det står i materialet) för att besvara frågor som tar projektet närmare en slutgiltig lösning. Här handlar det om att tänka, kommunicera och våga misslyckas. Prototyperna kan vara vad som helst som användarna kan interagera med – en storyboard, en whiteboard med olika ”vägar” att följa eller till och med ett rollspel där man får låtsas vara chatbot.
     
-    De olika prototyperna ska ha tydliga mål – vad är det man testar? Handlar det om tonlägen? Logiska menyval? O.s.v.
+De olika prototyperna ska ha tydliga mål – vad är det man testar? Handlar det om tonlägen? Logiska menyval? O.s.v.
 
-    Eftersom hela processen är iterativ, främst steg 4 och 5, bör prototyperna inte vara för omfattande och man ska inte ”gifta sig” med dem utan våga släppa taget. 
+Eftersom hela processen är iterativ, främst steg 4 och 5, bör prototyperna inte vara för omfattande och man ska inte ”gifta sig” med dem utan våga släppa taget. 
 
 ##  5. Test
-    “Testing is an opportunity to learn about your solution and your user.”
+“Testing is an opportunity to learn about your solution and your user.”
 
-    I testfasen samlar man in feedback och lär sig mer om både lösningen och användarna. Kanske ska man formulera om sin POV (problembeskrivning) om det behövs?
+I testfasen samlar man in feedback och lär sig mer om både lösningen och användarna. Kanske ska man formulera om sin POV (problembeskrivning) om det behövs?
 
-    För chatboten kan användarna få interagera med prototypen i en realistisk situation utan några instruktioner så att man kan se hur de använder chatboten (rätt eller fel) och i allmänhet vara "a fly on the wall" och bara lyssna.
+För chatboten kan användarna få interagera med prototypen i en realistisk situation utan några instruktioner så att man kan se hur de använder chatboten (rätt eller fel) och i allmänhet vara "a fly on the wall" och bara lyssna.
 
 ##  Iteration
-    Processen ser till en början ut att vara ganska rättfram med en linjär progression, men är i praktiken tvärtom mycket iterativ. Hela processen kan behöva gås igenom från början till slut och man kan iterera fram och tillbaka mellan olika faser i de olika stegen.
+Processen ser till en början ut att vara ganska rättfram med en linjär progression, men är i praktiken tvärtom mycket iterativ. Hela processen kan behöva gås igenom från början till slut och man kan iterera fram och tillbaka mellan olika faser i de olika stegen.
  
 
     
