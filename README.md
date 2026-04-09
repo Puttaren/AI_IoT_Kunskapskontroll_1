@@ -8,12 +8,29 @@ Redovisning av de tre delarna av kunskapskontroll 1 för kursen AI och IoT.
 Stegen Empathize, Define, Ideate, Prototype och Test är ganska tydliga "instruktioner" för en till synes linjär arbetsprocess som egentligen handlar om iteration. 
 
 ##  1. Empathize
-    Här handlar det om att ta till sig grunden för problemet/projektet, skapa en helhetsbild så att man vet vad det handlar om. Vara i verksamheten, tala med personerna i kundsupporten och följa några ärenden igenom processen. Här får man se saker med "nya ögon" för att upptäcka insikter som användarna själva inte alltid är medvetna om.
+    Här handlar det om att ta till sig grunden för problemet/
+    projektet, skapa en helhetsbild så att man vet vad det handlar 
+    om. Vara i verksamheten, tala med personerna i kundsupporten och 
+    följa några ärenden igenom processen. Här får man se saker med 
+    "nya ögon" för att upptäcka insikter som användarna själva inte 
+    alltid är medvetna om.
 
-    För ett chatbot-projekt kan det handla om att studera interaktionen med kundsupporten, och se hur tydligt kunderna själva formulerar sina problem.Till det kan man göra intervjuer med både kunder och supportpersonal samt försöka gå på djupet och förstå deras frustrationer eller önskemål bättre.
+    För ett chatbot-projekt kan det handla om att studera 
+    interaktionen med kundsupporten, och se hur tydligt kunderna 
+    själva formulerar sina problem.Till det kan man göra intervjuer 
+    med både kunder och supportpersonal samt försöka gå på djupet och 
+    förstå deras frustrationer eller önskemål bättre.
 
 ##  2. Define
-    Ta fram ett tydligt ramverk för projektet, med en grundlig beskrivning av vad målet är med projektet, *vem* som är målgruppen för prjektet, vilka *behov* som finns och vilka *insikter* som har framkommit i Empathize-fasen. Ett utmärkt sätt kan vara att göra "stream of consciousness"-anteckningar så att man fritt kan få fram allt som man upplevde i fas 1 - med bilder, citat, etc. Genom att skapa en "Point-of-View" får man klarhet och fokus med en meningsfull och handlingskraftig problemformulering.
+    Ta fram ett tydligt ramverk för projektet, med en grundlig 
+    beskrivning av vad målet är med projektet, *vem* som är 
+    målgruppen för prjektet, vilka *behov* som finns och vilka 
+    *insikter* som har framkommit i Empathize-fasen. Ett utmärkt sätt 
+    kan vara att göra "stream of consciousness"-anteckningar så att 
+    man fritt kan få fram allt som man upplevde i fas 1 - med bilder, 
+    citat, etc. Genom att skapa en "Point-of-View" får man klarhet 
+    och fokus med en meningsfull och handlingskraftig 
+    problemformulering.
 
 ##  3. Ideate
     Nu är det dags att skapa en serie åtgärdsförslag där man jobbar brett och använder fantasi för att hitta även svar som kanske inte omedelbart kan vara självklara. Kreativiteten är viktigare än genomförbarhet - idéerna ska flöda fritt!
