@@ -1,6 +1,20 @@
-.venv/
-venv/
-__pycache__/
-*.pyc
-*.pkl
+# Mappar
 Datainsamling/
+
+# Virtuell miljö
+.venv/
+
+# Miljövariabler (hemliga nycklar)
+.env
+
+# Python-cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook-checkpoints
+.ipynb_checkpoints/
+
+# Systemfiler
+.DS_Store
+Thumbs.db
