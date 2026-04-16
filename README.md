@@ -18,7 +18,7 @@ Projektet är strukturerat i fem huvuddelar:
     * **Redovisning:** Cirkeldiagram samt ett antal exempelbilder med AI-identifierade labels.
 
 ### 3. Del 3: Energioptimering & Investeringsanalys
-![Energiflöden per timme 2024-04-25](Diverse%20filer/demo_floden_2024-04-25.png')
+![Energiflöden per timme 2024-04-25](Diverse%20filer/demo_floden_2024-04-25.png)
 * **Fil:** `Del 3 - Elprojekt.ipynb`
 * **Innehåll:** Projektets tekniska tyngdpunkt. En prediktiv modell för AI-styrning av ett smart hem i elområde SE4.
     * **Data:** Integration av Solis Cloud API (IoT), SMHI SNOW1G (Väderprognos) och NASA POWER (Historisk strålning).
