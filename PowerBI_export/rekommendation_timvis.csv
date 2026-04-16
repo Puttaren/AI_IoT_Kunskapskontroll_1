@@ -1,0 +1,25 @@
+﻿datum,timme,sol_kwh,pris_ore,bat_signal,ev_signal,vitvaror_signal,ev_laddning,vitvaror_on,hog_pris,lag_pris,bra_sol,exporterad_ts
+2026-04-17,00:00,0.0,135.83,🔋 Ladda ur (högt pris),😴 Väntar på billigaste blocket,🌙 Utanför tillåten tid (06–21),0,0,1,0,0,2026-04-16 16:32
+2026-04-17,01:00,0.0,114.73,⏸️  Neutral — håll SOC,😴 Väntar på billigaste blocket,🌙 Utanför tillåten tid (06–21),0,0,0,0,0,2026-04-16 16:32
+2026-04-17,02:00,0.0,110.08,⏸️  Neutral — håll SOC,🔌 Ladda (110 öre),🌙 Utanför tillåten tid (06–21),1,0,0,0,0,2026-04-16 16:32
+2026-04-17,03:00,0.0,100.25,⏸️  Neutral — håll SOC,🔌 Ladda (100 öre),🌙 Utanför tillåten tid (06–21),1,0,0,0,0,2026-04-16 16:32
+2026-04-17,04:00,0.0,98.19,⏸️  Neutral — håll SOC,🔌 Ladda (98 öre),🌙 Utanför tillåten tid (06–21),1,0,0,0,0,2026-04-16 16:32
+2026-04-17,05:00,0.0,114.76,⏸️  Neutral — håll SOC,😴 Väntar på billigaste blocket,🌙 Utanför tillåten tid (06–21),0,0,0,0,0,2026-04-16 16:32
+2026-04-17,06:00,0.0,140.41,🔋 Ladda ur (högt pris),😴 Väntar på billigaste blocket,⛔ Dyrt — vänta,0,0,1,0,0,2026-04-16 16:32
+2026-04-17,07:00,1.2518461604499236,175.96,🌤  Sol täcker last,😴 Väntar på billigaste blocket,⛔ Dyrt — vänta,0,0,1,0,0,2026-04-16 16:32
+2026-04-17,08:00,1.9105895527041912,171.32,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,⛔ Dyrt — vänta,0,0,1,0,1,2026-04-16 16:32
+2026-04-17,09:00,3.4710295483684988,133.34,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,⛔ Dyrt — vänta,0,0,1,0,1,2026-04-16 16:32
+2026-04-17,10:00,5.997081759115158,119.61,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,⏸️  OK men ej optimalt (120 öre),0,0,0,0,1,2026-04-16 16:32
+2026-04-17,11:00,6.718706456814459,97.89,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,✅ Kör nu! (solel 6.7 kWh),0,1,0,0,1,2026-04-16 16:32
+2026-04-17,12:00,7.28986808630086,73.39,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,✅ Kör nu! (solel 7.3 kWh),0,1,0,1,1,2026-04-16 16:32
+2026-04-17,13:00,6.698924498694104,58.26,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,✅ Kör nu! (solel 6.7 kWh),0,1,0,1,1,2026-04-16 16:32
+2026-04-17,14:00,5.7809756358878035,37.88,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,✅ Kör nu! (solel 5.8 kWh),0,1,0,1,1,2026-04-16 16:32
+2026-04-17,15:00,3.9392955697034324,29.24,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,⏸️  OK men ej optimalt (29 öre),0,0,0,1,1,2026-04-16 16:32
+2026-04-17,16:00,2.029385819631155,62.59,☀️  Ladda med sol,🚗 Inte hemma/ej aktuellt,⏸️  OK men ej optimalt (63 öre),0,0,0,1,1,2026-04-16 16:32
+2026-04-17,17:00,0.7457437954599937,91.05,🌤  Sol täcker last,🚗 Inte hemma/ej aktuellt,⏸️  OK men ej optimalt (91 öre),0,0,0,0,0,2026-04-16 16:32
+2026-04-17,18:00,0.1953953568652064,115.24,⏸️  Neutral — håll SOC,🚗 Inte hemma/ej aktuellt,⏸️  OK men ej optimalt (115 öre),0,0,0,0,0,2026-04-16 16:32
+2026-04-17,19:00,0.1267546378346774,134.41,🔋 Ladda ur (högt pris),🚗 Inte hemma/ej aktuellt,⛔ Dyrt — vänta,0,0,1,0,0,2026-04-16 16:32
+2026-04-17,20:00,0.0,126.31,⏸️  Neutral — håll SOC,🚗 Inte hemma/ej aktuellt,⏸️  OK men ej optimalt (126 öre),0,0,0,0,0,2026-04-16 16:32
+2026-04-17,21:00,0.0,107.42,⏸️  Neutral — håll SOC,🚗 Inte hemma/ej aktuellt,⏸️  OK men ej optimalt (107 öre),0,0,0,0,0,2026-04-16 16:32
+2026-04-17,22:00,0.0,102.11,⏸️  Neutral — håll SOC,😴 Väntar på billigaste blocket,🌙 Utanför tillåten tid (06–21),0,0,0,0,0,2026-04-16 16:32
+2026-04-17,23:00,0.0,85.81,⏸️  Neutral — håll SOC,😴 Väntar på billigaste blocket,🌙 Utanför tillåten tid (06–21),0,0,0,0,0,2026-04-16 16:32

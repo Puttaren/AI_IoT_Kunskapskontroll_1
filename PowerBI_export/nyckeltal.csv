@@ -1,0 +1,24 @@
+﻿kategori,nyckeltal,värde_text,värde_num,exporterad_ts
+Modell,Algoritm,LightGBM (Optuna),,2026-04-16 16:32
+Modell,Träningsperiod,2023-07-08,,2026-04-16 16:32
+Modell,Testperiod start,2025-07-01,,2026-04-16 16:32
+Modell,Träningstimmar,7362,7362.0,2026-04-16 16:32
+Modell,Testtimmar,1844,1844.0,2026-04-16 16:32
+Prognos,Datum,2026-04-17,,2026-04-16 16:32
+Prognos,Sol total kWh,46.2,46.16,2026-04-16 16:32
+Prognos,Snittpris öre,105.7,105.67,2026-04-16 16:32
+Prognos,Maxpris öre,176.0,175.96,2026-04-16 16:32
+Prognos,Minpris öre,29.2,29.24,2026-04-16 16:32
+Prognos,Molntäckning imorgon %,94,94.4,2026-04-16 16:32
+Utan opt.,Nätimport kWh,25.9,25.93,2026-04-16 16:32
+Utan opt.,Nätexport kWh,33.1,33.09,2026-04-16 16:32
+Utan opt.,Egenförbrukning %,28.3,28.31,2026-04-16 16:32
+Utan opt.,Nettokostnad kr,1.32,1.3158,2026-04-16 16:32
+Med opt.,Nätimport kWh,14.2,14.24,2026-04-16 16:32
+Med opt.,Nätexport kWh,26.6,26.58,2026-04-16 16:32
+Med opt.,Egenförbrukning %,42.4,42.42,2026-04-16 16:32
+Med opt.,Nettokostnad kr,-17.92,-17.9219,2026-04-16 16:32
+Besparing,Kr per dag,19.24,19.2377,2026-04-16 16:32
+Besparing,Procent,1462.0%,1462.04,2026-04-16 16:32
+Besparing,Estimerat per månad kr,577,577.13,2026-04-16 16:32
+Besparing,Estimerat per år kr,7022,7021.78,2026-04-16 16:32
