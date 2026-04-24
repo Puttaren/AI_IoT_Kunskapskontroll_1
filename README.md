@@ -46,6 +46,13 @@ Projektet är strukturerat i fem huvuddelar:
 ## 💡 Viktigaste insikterna från del 3 
 Paradoxalt nog kan ökad digital intelligens (AI-styrning) minska det ekonomiska incitamentet såväl för dyra investeringar i hushållsbatterier som faktiskt även AI-styrningen i sig. Genom prediktiv *Load Shifting* kan en betydande del av den gröna omställningen genomföras med mjukvara, vilket kan göra energiomställningen mer tillgänglig för alla, även de som saknar större resurser.
 
+## 💡 Nästa steg: App som stöd för att styra elförbrukningen
+Projektets naturliga nästa steg är att lyfta den prediktiva modellen från en experimentell miljö till en helautomatiserad produktionstjänst. Genom att implementera en molnbaserad arkitektur kan analysen transformeras till ett aktivt värdeskapande verktyg som dagligen analyserar morgondagens day ahead-priser och väderprognoser i syfte att skapa en matematiskt optimal körplan för hushållets elförbrukning.
+
+Min idé var en app som dels mailar rekommendationer dagligen och dels skickar notiser i mobilen en timme innan det växlar från "rött" till "grönt" och tvärtom så att jag får en bra påminnelse om jag t.ex. vill ladda bilen dagtid eller göra extra varmvatten. 
+
+Tyvärr fanns inte tiden till att färdigställa denna app innan inlämningen av den här uppgiften, men jag ska göra den ändå - för mitt eget höga nöjes skull och för att det nog kan spara en och annan krona. 
+
 ## 🛠 Teknisk fördjupning: Metodik & Modellering
 
 Här följer en detaljerad genomgång av projektets databehandling, val av algoritm och optimeringslogik.
